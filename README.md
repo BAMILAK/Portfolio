@@ -42,7 +42,7 @@ Transferable Strengths: Clear communicator, strong presence, adaptable under pre
 * [This is a project of financial/sales analysis on different variants of Cannabis]() 
 *![Screenshot of the project1](docs/image/Screenshot car sales.jpg)
 *![Screenshot of Project2](docs/image/Procurement 1.jpg)
-* ![Screenshot of project3]()
+*![Screenshot of Project3]()
 
 
 
