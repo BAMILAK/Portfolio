@@ -38,10 +38,10 @@ Transferable Strengths: Clear communicator, strong presence, adaptable under pre
    
 # PROJECTS
 * [This project is an analysis done on car sales, view more on github]()
-* [This is a project on procurement analysis]()
+* [This is a project on procurement analysis, view it on github]()
 * [This is a project of financial/sales analysis on different variants of Cannabis]() 
 *![Screenshot of the project1](docs/image/Screenshot car sales.jpg)
-*![Screenshot of Project2]()
+*![Screenshot of Project2](docs/image/Procurement 1.jpg)
 * ![Screenshot of project3]()
 
 
