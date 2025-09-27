@@ -37,7 +37,12 @@ Transferable Strengths: Clear communicator, strong presence, adaptable under pre
 ![pictures of class](docs/assets/IMG-20250227-WA0033.jpg)
    
 # PROJECTS
-* [This project is an analysis done ads campaign, tools used for analysis is microsoft Excel/Power Bi to find out more click on this link](https://github.com/FIYINT/SALES-PERFORMANCE)
+* [This project is an analysis done on car sales, view more on github]()
+* [This is a project on procurement analysis]()
+* [This is a project of financial/sales analysis on different variants of Cannabis]() 
+*![Screenshot of the project1]()
+*![Screenshot of Project2]()
+* ![Screenshot of project3]()
 
 
 
