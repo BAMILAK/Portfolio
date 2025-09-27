@@ -37,7 +37,7 @@ Transferable Strengths: Clear communicator, strong presence, adaptable under pre
 ![pictures of class](docs/assets/IMG-20250227-WA0033.jpg)
    
 # PROJECTS
-* [This project is an analysis done on car sales, view more on github]()
+* [This project is an analysis done on car sales, view more on github](https://github.com/BAMILAK/CAR-SALES-ANALYSIS)
 * [This is a project on procurement analysis, view it on github]()
 * [This is a project of financial/sales analysis on different variants of Cannabis]() 
 *![Screenshot of the project1](docs/image/Screenshot car sales.jpg)
